@@ -1,3 +1,4 @@
+'submit script'
 checkPkgs <- function() {
   pkg.inst <- installed.packages()
   pkgs <- c("RCurl", "digest")
