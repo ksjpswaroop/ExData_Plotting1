@@ -1,3 +1,4 @@
+'plot 1'
 library(data.table)
 
 ## read in the houseold power consumption data
